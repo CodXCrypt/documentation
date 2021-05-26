@@ -4,17 +4,17 @@
 
 Open-Source Software is a type of software whose code is publicly available to use and modify. 
 Open-Source Contribution involves contributing to the development or improvement of open-source software.
-Prerequisites before starting to contribute
-Learn a programming language
+## Prerequisites before starting to contribute
+## Learn a programming language
 Since open-source contribution requires you to read/write code if you want to be involved in its development, you are required to learn a programming language to get started.
 You can get started with any language of your choice. You can easily learn another language at a later stage if a project requires it.
-GitHub
+## GitHub
 GitHub is a code hosting platform for collaboration using the Git Version Control System.
 In layman’s term, it is the place where you keep all your projects and multiple people can work together on those projects.
 Ways to Contribute in any OpenSource Project
-There are a lot of things that you could do to start your journey in open source.you can start contributing by: 
-•	Creating your own opensource projects. 
-•	Contributing to existing opensource project.
+There are a lot of things that you could do to start your journey in open source.you can start contributing by: <br>
+•	Creating your own opensource projects. <br>
+•	Contributing to existing opensource project.<br>
 •	OpenSource Events
 
 
